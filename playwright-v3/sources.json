@@ -1,0 +1,32 @@
+{
+  "title": "让 AI 接着你的浏览器做事：Playwright 上手指南",
+  "published_article": "https://mp.weixin.qq.com/s/WDlBpnQxtP0-ncF_8ixROw",
+  "approved_revision": 3,
+  "images": [
+    {
+      "path": "playwright-v3/cover.png",
+      "sha256": "c1267cd4ae956f495084bfa1b8f77907fe0147dd1852c3e2cab149681bf8ced5",
+      "bytes": 73383,
+      "raw_url": "https://raw.githubusercontent.com/ldz0207/youli-assets/main/playwright-v3/cover.png"
+    },
+    {
+      "path": "playwright-v3/01-control-chain.png",
+      "sha256": "2fe8eb5b8f6b7508c39eb808f9acbd30a1866a39d7f342e1ff914d4b33509c24",
+      "bytes": 123459,
+      "raw_url": "https://raw.githubusercontent.com/ldz0207/youli-assets/main/playwright-v3/01-control-chain.png"
+    },
+    {
+      "path": "playwright-v3/02-first-connection.png",
+      "sha256": "1f03ae7fee31c6656f078ee963c72eb8a942ccf4e681f1d114483b5e8a28b246",
+      "bytes": 158521,
+      "raw_url": "https://raw.githubusercontent.com/ldz0207/youli-assets/main/playwright-v3/02-first-connection.png"
+    },
+    {
+      "path": "playwright-v3/03-web-and-system.png",
+      "sha256": "8773f856c92a4fc0f6ce5106f7f9b0d4d92fe45dfe9eee4fc894a501fe744fe8",
+      "bytes": 101280,
+      "raw_url": "https://raw.githubusercontent.com/ldz0207/youli-assets/main/playwright-v3/03-web-and-system.png"
+    }
+  ],
+  "attribution": "Illustrations include official Playwright and Microsoft Edge product icons. Product marks belong to their respective owners. No blanket redistribution license is granted."
+}

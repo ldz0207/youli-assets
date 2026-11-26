@@ -77,6 +77,13 @@
     "sha256": "d69e92e3dad7bfa184d613fe781bbdb9899b6f479ef808e8ab78a24f3d6a307c"
   },
   {
+    "path": "images/08b-generative-ui-embed.png",
+    "width": 1920,
+    "height": 1200,
+    "source": "generated",
+    "sha256": "17b71eaa5161326226f9096c54e0f03c8217bbda022a0f30b0bcf754b7ee328d"
+  },
+  {
     "path": "images/11-review-changes-official.png",
     "width": 1218,
     "height": 790,

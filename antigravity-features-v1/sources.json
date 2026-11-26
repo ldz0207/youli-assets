@@ -1,0 +1,86 @@
+[
+  {
+    "path": "images/cover.png",
+    "width": 1800,
+    "height": 766,
+    "source": "generated",
+    "sha256": "9b062c3841db18c4a7eac104b6cc27ec719091e39da5ae321a7c077ee8f14039"
+  },
+  {
+    "path": "images/01-co-learning-loop.png",
+    "width": 1920,
+    "height": 1160,
+    "source": "generated",
+    "sha256": "97cac3a1360d0b6609afaf35d0e334f0115eb2bb0dd3532e6f410115745c89c7"
+  },
+  {
+    "path": "images/02-btw-vs-normal.png",
+    "width": 1920,
+    "height": 1160,
+    "source": "generated",
+    "sha256": "74046fd0434bcf56c12f42d9bcf9a4da5b2457928b59609d3bcf2c86255f7300"
+  },
+  {
+    "path": "images/03-slash-commands-map.png",
+    "width": 1920,
+    "height": 1280,
+    "source": "generated",
+    "sha256": "d268618d5df1b87ed59e180884259e945e8aadc97b7b8af1b0aae2e19900f1ce"
+  },
+  {
+    "path": "images/05-mcp-apps-arch.png",
+    "width": 1920,
+    "height": 1120,
+    "source": "generated",
+    "sha256": "c1d0bc027956a5eb890617d03b82cf5f4a5ef9d1b19c32ea9cad34da1e208807"
+  },
+  {
+    "path": "images/09-v235-updates.png",
+    "width": 1920,
+    "height": 1240,
+    "source": "generated",
+    "sha256": "6b26851b052a360c8479b82aa1327a4dd1e54ada30fd8efd4021cafeb5fc624e"
+  },
+  {
+    "path": "images/10-hidden-gems.png",
+    "width": 1920,
+    "height": 1160,
+    "source": "generated",
+    "sha256": "b443be9ae443fda72678737875e4726b6a1a5b588c93704da8e848e2eb27b9df"
+  },
+  {
+    "path": "images/04-swarm-hive-official.png",
+    "width": 1640,
+    "height": 1240,
+    "source": "antigravity-builtin-swarm-board",
+    "sha256": "5092568508e16fe94c0fb186afd28eb309f66d2dca8d5c0cda42500124b64cbd"
+  },
+  {
+    "path": "images/06-task-radar-demo.png",
+    "width": 1680,
+    "height": 876,
+    "source": "redacted-task-radar-v2.1",
+    "sha256": "c695e37ccde7ae1a1a5c3c26f42751a102fcfb128cfb43b74df67cc3a08c233e"
+  },
+  {
+    "path": "images/07-prism-studio-demo.png",
+    "width": 2160,
+    "height": 1752,
+    "source": "redacted-prism-studio-v4.0",
+    "sha256": "22c20512dd301a248ae0fdfe55cf498d49f5ddc9d4e974bb6ab0c16541ba66ee"
+  },
+  {
+    "path": "images/08-prism-keycaps-periodic.png",
+    "width": 2160,
+    "height": 748,
+    "source": "redacted-prism-studio-v4.0-keycaps",
+    "sha256": "d69e92e3dad7bfa184d613fe781bbdb9899b6f479ef808e8ab78a24f3d6a307c"
+  },
+  {
+    "path": "images/11-review-changes-official.png",
+    "width": 1218,
+    "height": 790,
+    "source": "https://antigravity.google/assets/image/docs/review-changes/review-changes-app-comment.png",
+    "sha256": "519e653f0899091e1b7faeb56f915527ac7eb1aa85e18d3e070c5461d4f89944"
+  }
+]

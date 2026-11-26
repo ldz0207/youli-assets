@@ -1,0 +1,106 @@
+[
+  {
+    "path": "images/cover.png",
+    "width": 1800,
+    "height": 766,
+    "bytes": 573138,
+    "sha256": "cdbb2ef32e58557b55660bb1499139f77bbb2fbca8b0f1dcba18156eb96f5d86",
+    "source": "generated-light-cover"
+  },
+  {
+    "path": "images/01-co-learning-loop.png",
+    "width": 1920,
+    "height": 1160,
+    "bytes": 386667,
+    "sha256": "97cac3a1360d0b6609afaf35d0e334f0115eb2bb0dd3532e6f410115745c89c7",
+    "source": "generated"
+  },
+  {
+    "path": "images/02-btw-vs-normal.png",
+    "width": 1920,
+    "height": 1160,
+    "bytes": 330600,
+    "sha256": "74046fd0434bcf56c12f42d9bcf9a4da5b2457928b59609d3bcf2c86255f7300",
+    "source": "generated"
+  },
+  {
+    "path": "images/03-slash-commands-map.png",
+    "width": 1920,
+    "height": 1280,
+    "bytes": 428348,
+    "sha256": "d268618d5df1b87ed59e180884259e945e8aadc97b7b8af1b0aae2e19900f1ce",
+    "source": "generated"
+  },
+  {
+    "path": "images/04-swarm-hive-collab.gif",
+    "width": 820,
+    "height": 600,
+    "bytes": 173037,
+    "sha256": "edb9f45351aa7fe3a19c3786a1dd1cdc6225db3639a7426580d6b575742cfe8b",
+    "source": "antigravity-builtin-swarm-board-gif"
+  },
+  {
+    "path": "images/05-mcp-apps-arch.png",
+    "width": 1920,
+    "height": 1120,
+    "bytes": 357896,
+    "sha256": "50f0d4273738dc873a4748cf0591bd35c6883c70252bd2cd4b9f4a684cdf27fc",
+    "source": "generated-light"
+  },
+  {
+    "path": "images/06-task-radar-demo.png",
+    "width": 1680,
+    "height": 876,
+    "bytes": 167499,
+    "sha256": "c695e37ccde7ae1a1a5c3c26f42751a102fcfb128cfb43b74df67cc3a08c233e",
+    "source": "redacted-task-radar-v2.1"
+  },
+  {
+    "path": "images/07-prism-studio-demo.png",
+    "width": 2160,
+    "height": 1752,
+    "bytes": 478392,
+    "sha256": "d4db2df4be3501969d3598da8bd4f69c0da7f30112b3c89e69364f43ad4ee26a",
+    "source": "redacted-prism-studio-v4.0-crystal"
+  },
+  {
+    "path": "images/08-prism-keycaps-periodic.gif",
+    "width": 900,
+    "height": 370,
+    "bytes": 116388,
+    "sha256": "e030ce36862afec87658f4b5870908f0cd58da8017d721fc82cbad38d79046c3",
+    "source": "redacted-prism-studio-v4.0-keycaps-gif"
+  },
+  {
+    "path": "images/08b-generative-ui-embed.gif",
+    "width": 880,
+    "height": 540,
+    "bytes": 171801,
+    "sha256": "00fa8cce7d947cf6c8ec9647831ede445867436b4f3d45645de607b2a0c1023e",
+    "source": "generated-generative-ui-live-gif"
+  },
+  {
+    "path": "images/09-v235-updates.png",
+    "width": 1920,
+    "height": 1240,
+    "bytes": 421784,
+    "sha256": "373c03ae1b57538f1573053cd244d3fcddc92af5c94ff1d1e467519af79575d8",
+    "source": "generated"
+  },
+  {
+    "path": "images/10-hidden-gems.png",
+    "width": 1920,
+    "height": 1160,
+    "bytes": 378028,
+    "sha256": "b443be9ae443fda72678737875e4726b6a1a5b588c93704da8e848e2eb27b9df",
+    "source": "generated"
+  },
+  {
+    "path": "images/11-review-changes-official.png",
+    "width": 1218,
+    "height": 790,
+    "bytes": 104430,
+    "sha256": "519e653f0899091e1b7faeb56f915527ac7eb1aa85e18d3e070c5461d4f89944",
+    "source": "https://antigravity.google/assets/image/docs/review-changes/review-changes-app-comment.png"
+  }
+]

@@ -4,7 +4,7 @@
     "width": 1800,
     "height": 766,
     "source": "generated",
-    "sha256": "9b062c3841db18c4a7eac104b6cc27ec719091e39da5ae321a7c077ee8f14039"
+    "sha256": "d47a720abe77e0d8a442ab7b0d12bf26f2caf975bc1b7a8438fab7db02a843e8"
   },
   {
     "path": "images/01-co-learning-loop.png",
@@ -39,7 +39,7 @@
     "width": 1920,
     "height": 1240,
     "source": "generated",
-    "sha256": "6b26851b052a360c8479b82aa1327a4dd1e54ada30fd8efd4021cafeb5fc624e"
+    "sha256": "373c03ae1b57538f1573053cd244d3fcddc92af5c94ff1d1e467519af79575d8"
   },
   {
     "path": "images/10-hidden-gems.png",
@@ -53,7 +53,7 @@
     "width": 1640,
     "height": 1240,
     "source": "antigravity-builtin-swarm-board",
-    "sha256": "5092568508e16fe94c0fb186afd28eb309f66d2dca8d5c0cda42500124b64cbd"
+    "sha256": "5466e41d302b93954f2dac54ee2e3ea195de34334b392c8acd5e73fa6ec94a2d"
   },
   {
     "path": "images/06-task-radar-demo.png",
@@ -67,7 +67,7 @@
     "width": 2160,
     "height": 1752,
     "source": "redacted-prism-studio-v4.0",
-    "sha256": "22c20512dd301a248ae0fdfe55cf498d49f5ddc9d4e974bb6ab0c16541ba66ee"
+    "sha256": "fbec7b542287b039e486e15ce8c6864540ae92f0727637381a09b21c53a18513"
   },
   {
     "path": "images/08-prism-keycaps-periodic.png",

@@ -1,0 +1,101 @@
+[
+  {
+    "path": "images/cover.png",
+    "width": 1800,
+    "height": 766,
+    "bytes": 1077733,
+    "sha256": "1603939f7fe0ecca587524535cfdebf1fb218d6fc898406bd4978d04e498f432",
+    "source": "pocket-city-v28-editorial-cover"
+  },
+  {
+    "path": "images/01-style-and-overview.png",
+    "width": 1920,
+    "height": 1240,
+    "bytes": 1960491,
+    "sha256": "25af5193e790179bf81c717dfebefc86cb22280c3af949c7ae8adada9343006c",
+    "source": "pocket-city-v28-overview-annotated"
+  },
+  {
+    "path": "images/02-street-life-closeups.png",
+    "width": 1920,
+    "height": 940,
+    "bytes": 1338994,
+    "sha256": "5e6943f32aedffe4cd3aae1e6c8aa18c64e134ca5975eeb34c5b42216d6a8294",
+    "source": "pocket-city-v28-lake-roof-diptych"
+  },
+  {
+    "path": "images/03-maanshan-local-soul.png",
+    "width": 1920,
+    "height": 1040,
+    "bytes": 1668050,
+    "sha256": "a06830dd401735ad3da1e041c9021ee4ecfd2f37a8e0cc586857baa811f8cf48",
+    "source": "pocket-city-v28-night-festival-diptych"
+  },
+  {
+    "path": "images/04-south-commercial-belt.png",
+    "width": 1920,
+    "height": 1000,
+    "bytes": 1544697,
+    "sha256": "ff4ca34a03998a9e78c899e0aa23ad8842acd00fb620f0b51a81625cc6678496",
+    "source": "pocket-city-v28-dahua-shujie-diptych"
+  },
+  {
+    "path": "images/05-click-satellite-demo.png",
+    "width": 1920,
+    "height": 1160,
+    "bytes": 1171700,
+    "sha256": "73b73d9e9e0bec3dbe9e5198fff05c893a84a13de9d791b3022dd81a7f3f4671",
+    "source": "pocket-city-v28-interactive-satellite-comparison"
+  },
+  {
+    "path": "images/06-real-vs-illustrative.png",
+    "width": 1920,
+    "height": 1360,
+    "bytes": 1808690,
+    "sha256": "ca589329ea19ebf24f119a0a71e3cf849db3c3ace09560c8690f65ca879f5158",
+    "source": "pocket-city-v28-data-layers-validation"
+  },
+  {
+    "path": "images/07-perf-evolution.png",
+    "width": 1920,
+    "height": 1040,
+    "bytes": 401599,
+    "sha256": "9c09b76d145d1a1f49bc71bc654cf5b60e59e2afdabaabd6de43f6d3b125e9a0",
+    "source": "pocket-city-v28-fps-optimization-chart"
+  },
+  {
+    "path": "images/08-play-guide-card.png",
+    "width": 1920,
+    "height": 1040,
+    "bytes": 312464,
+    "sha256": "37e7908f4e200eefcac74e5e4b2a2e49b76db5e0daecd873c6bc23d1f0c01b04",
+    "source": "pocket-city-v28-interaction-guide"
+  },
+  {
+    "path": "images/gif-01-walkers-street.gif",
+    "width": 500,
+    "height": 312,
+    "frames": 40,
+    "bytes": 2695183,
+    "sha256": "8280eb5c2ed24442b573f89bb7dee2ee64094dff72c1d0a11c1b07a34888effd",
+    "source": "pocket-city-v28-3d-street-tracking-gif"
+  },
+  {
+    "path": "images/gif-02-junction-traffic.gif",
+    "width": 540,
+    "height": 338,
+    "frames": 56,
+    "bytes": 2118727,
+    "sha256": "c31424a6f415ed6929c32acb31369bcada0c664ddcdf3c0db726d8301e7a658c",
+    "source": "pocket-city-v28-3d-flythrough-gif"
+  },
+  {
+    "path": "images/gif-03-seasons-live.gif",
+    "width": 500,
+    "height": 312,
+    "frames": 60,
+    "bytes": 2667756,
+    "sha256": "7fb674824390d6d555eba35648e4fe9216d9e336099a538fc2ee89faa7671df7",
+    "source": "pocket-city-v28-3d-seasons-night-gif"
+  }
+]

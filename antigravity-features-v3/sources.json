@@ -1,0 +1,106 @@
+[
+  {
+    "path": "images/cover.png",
+    "width": 1800,
+    "height": 766,
+    "bytes": 573138,
+    "sha256": "cdbb2ef32e58557b55660bb1499139f77bbb2fbca8b0f1dcba18156eb96f5d86",
+    "source": "generated-light-cover"
+  },
+  {
+    "path": "images/01-co-learning-loop.png",
+    "width": 1840,
+    "height": 982,
+    "bytes": 344716,
+    "sha256": "96dc17d74c1581eecdc05412ae25fa1ee06db7c5dc31be38f1a9c90246ed1667",
+    "source": "generated-light-tight"
+  },
+  {
+    "path": "images/02-btw-vs-normal.png",
+    "width": 1840,
+    "height": 894,
+    "bytes": 292964,
+    "sha256": "82678b8863b4d901493c5a868b7614e3a5cedc3a621330e9310e18e43ef136f7",
+    "source": "generated-light-tight"
+  },
+  {
+    "path": "images/03-slash-commands-map.png",
+    "width": 1840,
+    "height": 940,
+    "bytes": 388496,
+    "sha256": "8c2da83ae5aa5cafd1199684a9acc2610cf237a87699156a1058796e20e2593b",
+    "source": "generated-light-tight"
+  },
+  {
+    "path": "images/04-swarm-hive-collab.gif",
+    "width": 760,
+    "height": 556,
+    "bytes": 167544,
+    "sha256": "840d4f15edd340a3a070fbcabd3c70a47de6f9a0bb027fc3cee3fa61e253889f",
+    "source": "antigravity-builtin-swarm-board-gif"
+  },
+  {
+    "path": "images/05-mcp-apps-arch.png",
+    "width": 1840,
+    "height": 844,
+    "bytes": 324733,
+    "sha256": "ec427ce5011f91efbaf4e57ad30dce32f6b87d8492ea20df8dd177d544fa49f3",
+    "source": "generated-light-tight"
+  },
+  {
+    "path": "images/06-task-radar-demo.png",
+    "width": 1680,
+    "height": 876,
+    "bytes": 167499,
+    "sha256": "c695e37ccde7ae1a1a5c3c26f42751a102fcfb128cfb43b74df67cc3a08c233e",
+    "source": "redacted-task-radar-v2.1"
+  },
+  {
+    "path": "images/07-prism-studio-demo.png",
+    "width": 1880,
+    "height": 1520,
+    "bytes": 501043,
+    "sha256": "e7bb4cfb04f3bfa61c582562138451b926fa09e7d71c9b17357eaea908d69a06",
+    "source": "redacted-prism-studio-v4.0-crystal-vertical-dock"
+  },
+  {
+    "path": "images/08-prism-keycaps-periodic.gif",
+    "width": 880,
+    "height": 354,
+    "bytes": 118529,
+    "sha256": "da49a965d2edf31148075c224fced97d14963218bfb1e7d7f5bfdf49980c5010",
+    "source": "redacted-prism-studio-v4.0-crystal-lcd-gif"
+  },
+  {
+    "path": "images/08b-generative-ui-embed.gif",
+    "width": 880,
+    "height": 417,
+    "bytes": 194642,
+    "sha256": "c716f6c098a991bcebbf80cefe1857d4c000107af5e2e55783df64bda7336354",
+    "source": "generated-generative-ui-lifestyle-gif"
+  },
+  {
+    "path": "images/09-v235-updates.png",
+    "width": 1840,
+    "height": 898,
+    "bytes": 379995,
+    "sha256": "679da21133b2c8c4bcc6f14ea21a7d12f228e462f3e4fc88b1d1b9a57f334cf1",
+    "source": "generated-light-tight"
+  },
+  {
+    "path": "images/10-hidden-gems.png",
+    "width": 1840,
+    "height": 858,
+    "bytes": 343780,
+    "sha256": "63ba7593cf1f71d65dc0226dc6cbb5829c83ae1c171e067a49e20ebe0432a195",
+    "source": "generated-light-tight"
+  },
+  {
+    "path": "images/11-review-changes-official.png",
+    "width": 1760,
+    "height": 910,
+    "bytes": 100904,
+    "sha256": "0eb926a7896f4dbe11e819a848b6b4023252b16a5e4c6919aeb3327626017188",
+    "source": "generated-light-review-panel"
+  }
+]
